@@ -57,11 +57,14 @@ ___
 
 `Adjustable Driving Modes`
 
-* Comfort mode | When you want a smoother, comfortable ride with ease of maneuverability, lighter steering and compliant acceleration.
+>* Comfort mode | When you want a smoother, comfortable ride with ease of maneuverability, lighter steering and compliant acceleration.
 
-* Sport mode | This is the default setting and provides exact and precise handling, while adding more acceleration and throttle response for an engaging, sport performance.
+>* Sport mode | This is the default setting and provides exact and precise handling, while adding more acceleration and throttle response for an engaging, sport performance.
 
-* +R mode | Just what you need when you take the Type R on to a race track. It Stiffens the dampers for high-speed handling, increases steering response and maximizes engine performance.
+>* +R mode | Just what you need when you take the Type R on to a race track. It Stiffens the dampers for high-speed handling, increases steering response and maximizes engine performance.
+
+><cite>TERRI, (wrote this article)
+> https://www.banhoeseng.com/2017/11/13/just-type-looking-fk8-civic-type-r/</cite>
 
 
 
