@@ -1,11 +1,20 @@
-# `A LITTLE ABOUT :blue_car:`
+# `Type R`
 
-_Something about FK8_
+_AKA FK8_
+
 
 
 ![Beauty](https://github.com/Fxtitan/Markdown-About-M3/blob/master/IMG_5003.jpeg?raw=true)
 
-https://en.wikipedia.org/wiki/Honda_Civic_Type_R 
+
+"**The History**"
+
+___
+
+
+
+
+[Wiki History](https://en.wikipedia.org/wiki/Honda_Civic_Type_R) 
 
 ___
 
@@ -42,6 +51,24 @@ ___
 ___
 
 8. Sonic Grey Pearl	|CAD ✔(2019)	|JPY ✘	|USD ✔(2019)	|EUR ✔|
+
+
+
+
+`Adjustable Driving Modes`
+
+* Comfort mode | When you want a smoother, comfortable ride with ease of maneuverability, lighter steering and compliant acceleration.
+
+* Sport mode | This is the default setting and provides exact and precise handling, while adding more acceleration and throttle response for an engaging, sport performance.
+
+* +R mode | Just what you need when you take the Type R on to a race track. It Stiffens the dampers for high-speed handling, increases steering response and maximizes engine performance.
+
+
+
+
+
+
+
 
 
 
